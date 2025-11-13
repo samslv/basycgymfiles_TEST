@@ -1,0 +1,7 @@
+[
+    {
+        "version": "2.0.0",
+        "changelog": "Se añadido el gestor de actualizaciones",
+        "installApk": true
+    }
+]
