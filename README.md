@@ -1,3 +1,13 @@
+Proyecto base basic-gym
+    Cada vez que se modifique una versión, debe modificarse:
+    - src\assets\version.json
+    - package.json
+    - android\app\build.gradle
+
+    Cada vez que se modifique una sub version, debe modificarse:
+    - src\assets\version.json
+    - package.json
+
 version.json
     Siempre debe tener la última versión existente (incluye versión menor), por ejemplo: 2.0.1
 
