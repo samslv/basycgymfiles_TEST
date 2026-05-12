@@ -1,5 +1,6 @@
 [
     { "version": "2.0.0", "installApk": true, "changelog": "Se añadido el gestor de actualizaciones" },
+    { "version": "2.0.2", "installApk": false, "changelog": "Correccion al añadir ejercicio desde el detalle" },
     {
         "version": "2.1.0",
         "installApk": false,
