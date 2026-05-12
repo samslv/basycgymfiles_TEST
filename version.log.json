@@ -1,6 +1,6 @@
 [
     {
-        "version": "3.0.0",
+        "version": "5.0.0",
         "installApk": true,
         "changelog": [
             "Drop sets: agrupación visual, kg-delta y soporte en gráficas e historial",
