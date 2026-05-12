@@ -1,4 +1,18 @@
 [
     { "version": "2.0.0", "installApk": true, "changelog": "Se añadido el gestor de actualizaciones" },
-    { "version": "2.0.1", "installApk": false, "changelog": "Correccion al añadir ejercicio desde el detalle" }
+    {
+        "version": "2.1.0",
+        "installApk": false,
+        "changelog": [
+            "Drop sets: agrupación visual, kg-delta y soporte en gráficas e historial",
+            "Google Sign-In con vinculación de cuenta",
+            "Rediseño de perfil, login y pantallas de ejercicio",
+            "Panel de admin con lista de usuarios e impersonación",
+            "Color de acento dinámico en toda la app",
+            "Ejercicios por tiempo",
+            "Historial: eliminar series, grupos colapsables, indicador de cambios",
+            "Navegación: botón atrás hardware, transiciones fade y animaciones",
+            "Cambio de contraseña para admin"
+        ]
+    }
 ]
